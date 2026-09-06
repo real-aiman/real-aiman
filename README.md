@@ -10,7 +10,7 @@
 
 [ **Portfolio** ](https://real-aiman.github.io/) &nbsp; · &nbsp; [ **GitHub** ](https://github.com/real-aiman)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E6D5C3&height=110&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F3C6D3&height=110&section=header" width="100%" />
 
 </div>
 
@@ -91,6 +91,6 @@ I like interfaces that feel considered rather than crowded — strong structure 
 
 **Thanks for visiting.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E6D5C3&height=85&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F3C6D3&height=85&section=footer" width="100%" />
 
 </div>
