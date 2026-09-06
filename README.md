@@ -1,8 +1,10 @@
 # Hi, I'm Aiman Shafiq 👋
 
-### Frontend Developer · React · TypeScript · Modern Web Experiences
+### Frontend Developer · React · TypeScript · WordPress · WooCommerce
 
-I build **responsive, polished and human-centered web experiences** with a focus on clean interfaces, thoughtful interactions and maintainable React architecture.
+I build **responsive, polished and human-centered web experiences** with a focus on clean interfaces, thoughtful interactions and maintainable frontend architecture.
+
+I also build **custom WordPress themes from scratch** and create tailored WooCommerce experiences — not just basic theme/logo edits.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://real-aiman.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-real--aiman-181717?style=for-the-badge&logo=github)](https://github.com/real-aiman)
@@ -12,9 +14,10 @@ I build **responsive, polished and human-centered web experiences** with a focus
 ## ✦ What I Do
 
 - ⚛️ Build modern interfaces with **React 19 + TypeScript**
-- 📱 Create responsive experiences that work across devices
+- 🌐 Build **custom WordPress themes from scratch**
+- 🛒 Develop and customize **WooCommerce stores**
+- 📱 Create responsive experiences across desktop, tablet and mobile
 - 🎨 Turn ideas into clean, accessible and visually refined UIs
-- 🛒 Build real-world e-commerce and dashboard experiences
 - ✨ Add purposeful micro-interactions and animation
 - 🧩 Structure projects with reusable, maintainable components
 
@@ -22,6 +25,9 @@ I build **responsive, polished and human-centered web experiences** with a focus
 
 **Frontend**  
 `HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Vite` · `Tailwind CSS`
+
+**WordPress & E-commerce**  
+`WordPress` · `Custom Themes` · `WooCommerce` · `Elementor` · `PHP` · `Custom CSS`
 
 **State & Routing**  
 `React Router` · `Context API` · `Redux Toolkit` · `Zustand`
@@ -52,19 +58,22 @@ A modern job-platform concept focused on practical recruitment workflows and pol
 
 **React · TypeScript · State Management · Responsive UI**
 
+### 🛒 WordPress / WooCommerce Projects
+Custom WordPress work including **from-scratch theme development, WooCommerce customization, product layouts, responsive styling and real store functionality**.
+
+**WordPress · WooCommerce · PHP · Elementor · CSS**
+
 ---
 
 ## 🌱 Currently Growing
 
-I'm continuously improving my skills in **advanced React patterns, TypeScript, Next.js, UI architecture, accessibility and production-ready frontend development**.
+I'm continuously improving my skills in **advanced React patterns, TypeScript, Next.js, WordPress theme architecture, WooCommerce customization, accessibility and production-ready frontend development**.
 
 ## 🎯 My Approach
 
 > **Clean code. Calm interfaces. Meaningful interactions.**
 
 I care about the details that make a product feel intentional — from responsive behavior and component structure to the small interactions users remember.
-
----
 
 ## 🤝 Let's Connect
 
