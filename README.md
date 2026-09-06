@@ -41,29 +41,77 @@ Git · GitHub · VS Code · npm
 
 ---
 
-## Selected Work
+## Featured Projects
 
-### Amira Store
-**Fashion E-commerce · React · JavaScript · Vite**
+<table>
+<tr>
+<td width="50%">
 
-A refined fashion storefront with product discovery, quick view, wishlist, cart, checkout and responsive navigation.
+### 🛍️ Amira Store
+**Fashion E-commerce**
 
-[Live Demo](https://real-aiman.github.io/Amira-store/) · [Repository](https://github.com/real-aiman/Amira-store)
+React · JavaScript · Vite
 
-### PulseCare
-**Hospital Dashboard · React · TypeScript · Recharts**
+A polished fashion storefront with product discovery, quick view, wishlist, cart, checkout and responsive navigation.
+
+**[Live Demo](https://real-aiman.github.io/Amira-store/) · [Code](https://github.com/real-aiman/Amira-store)**
+
+</td>
+<td width="50%">
+
+### 🏥 PulseCare
+**Hospital Dashboard**
+
+React · TypeScript · Recharts
 
 A modern dashboard concept focused on clear data presentation, reusable components and responsive layouts.
 
-### NexusHire
-**Job Platform · React · TypeScript · State Management**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💼 NexusHire
+**Job Platform**
+
+React · TypeScript · State Management
 
 A recruitment-focused frontend concept built around practical workflows and polished user experience.
 
-### WordPress & WooCommerce
-**Custom Themes · WooCommerce · PHP · Elementor**
+</td>
+<td width="50%">
 
-Custom WordPress work including **from-scratch theme development, WooCommerce customization, product layouts, responsive styling and real store functionality**.
+### 🛒 WordPress & WooCommerce
+**Custom Development**
+
+WordPress · PHP · WooCommerce · Elementor
+
+From-scratch themes, WooCommerce customization, product layouts, responsive styling and real store functionality.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,html,css,wordpress,php,git,github,vscode&theme=light" alt="Technology stack" />
+
+</div>
+
+---
+
+## GitHub Snapshot
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=real-aiman&show_icons=true&hide_border=true&title_color=8B6264&icon_color=C98F95&text_color=3A2F2A&bg_color=FFF9F5" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-aiman&layout=compact&hide_border=true&title_color=8B6264&text_color=3A2F2A&bg_color=FFF9F5" height="165" alt="Top languages" />
+
+</div>
 
 ---
 
