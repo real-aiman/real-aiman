@@ -1,17 +1,17 @@
 <div align="center">
 
-# ✿ Aiman Shafiq
+# ♡ Aiman Shafiq
 
 ### Frontend Developer · JavaScript · React · TypeScript · WordPress · WooCommerce
 
-**Building thoughtful interfaces with a soft spot for beautiful details. ♡**
+**Building thoughtful interfaces with a soft spot for beautiful details.**
 
 <p>
   <a href="https://real-aiman.github.io/">Portfolio</a> ·
   <a href="https://github.com/real-aiman">GitHub</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6E6E8&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8C7C8&height=120&section=header" width="100%" />
 
 </div>
 
@@ -21,16 +21,16 @@ I'm a frontend developer who enjoys turning ideas into **clean, responsive and p
 
 My work combines modern JavaScript development with custom WordPress work. I don't just swap logos or colors on ready-made themes — I also **build WordPress themes from scratch** and create tailored WooCommerce experiences.
 
-## 🌷 What I Do
+## ✦ What I Do
 
 | | Focus |
 |---|---|
-| 🟨 | **JavaScript (ES6+)** — interactive, practical web experiences |
-| ⚛️ | **React 19 + TypeScript** — reusable and maintainable interfaces |
-| 🌐 | **WordPress** — custom themes and tailored websites |
-| 🛍️ | **WooCommerce** — product layouts, store functionality and customization |
-| 📱 | **Responsive UI** — desktop, tablet and mobile experiences |
-| ✨ | **Motion & Interaction** — purposeful micro-interactions and animation |
+| ◇ | **JavaScript (ES6+)** — interactive, practical web experiences |
+| ♡ | **React 19 + TypeScript** — reusable and maintainable interfaces |
+| ◌ | **WordPress** — custom themes and tailored websites |
+| ✧ | **WooCommerce** — product layouts, store functionality and customization |
+| ⌁ | **Responsive UI** — desktop, tablet and mobile experiences |
+| · | **Motion & Interaction** — purposeful micro-interactions and animation |
 
 ## 🎀 Tech Stack
 
@@ -49,7 +49,7 @@ My work combines modern JavaScript development with custom WordPress work. I don
 **Tools**  
 `Git` · `GitHub` · `VS Code` · `npm`
 
-## 🦢 Featured Work
+## ♡ Featured Work
 
 ### 🛍️ Amira Store
 A refined fashion e-commerce experience with product discovery, quick view, wishlist, cart, checkout and responsive navigation.
@@ -72,11 +72,11 @@ Custom WordPress work including **from-scratch theme development, WooCommerce cu
 
 **WordPress · WooCommerce · PHP · Elementor · CSS**
 
-## 🌱 Currently Growing
+## 🌷 Currently Growing
 
 `Advanced JavaScript` · `React Patterns` · `TypeScript` · `Next.js` · `WordPress Theme Architecture` · `WooCommerce` · `Accessibility`
 
-## ☁️ My Little Philosophy
+## ☁️ My Philosophy
 
 > **Clean code. Calm interfaces. Meaningful interactions.**
 >
@@ -90,6 +90,6 @@ Custom WordPress work including **from-scratch theme development, WooCommerce cu
 
 ### Thanks for stopping by ♡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6E6E8&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8C7C8&height=100&section=footer" width="100%" />
 
 </div>
