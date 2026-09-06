@@ -108,8 +108,7 @@ From-scratch themes, WooCommerce customization, product layouts, responsive styl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=real-aiman&show_icons=true&hide_border=true&title_color=8B6264&icon_color=C98F95&text_color=3A2F2A&bg_color=FFF9F5" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-aiman&layout=compact&hide_border=true&title_color=8B6264&text_color=3A2F2A&bg_color=FFF9F5" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=real-aiman&theme=default" width="100%" alt="GitHub profile summary" />
 
 </div>
 
