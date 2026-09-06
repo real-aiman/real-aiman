@@ -1,28 +1,38 @@
-# Hi, I'm Aiman Shafiq 👋
+<div align="center">
+
+# ✿ Aiman Shafiq
 
 ### Frontend Developer · JavaScript · React · TypeScript · WordPress · WooCommerce
 
-I build **responsive, polished and human-centered web experiences** with a focus on clean interfaces, thoughtful interactions and maintainable frontend architecture.
+**Building thoughtful interfaces with a soft spot for beautiful details. ♡**
 
-I work across modern **JavaScript/React applications** and **custom WordPress development**, including themes built from scratch and tailored WooCommerce experiences.
+<p>
+  <a href="https://real-aiman.github.io/">Portfolio</a> ·
+  <a href="https://github.com/real-aiman">GitHub</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://real-aiman.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-real--aiman-181717?style=for-the-badge&logo=github)](https://github.com/real-aiman)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6E6E8&height=120&section=header" width="100%" />
 
----
+</div>
 
-## ✦ What I Do
+## ♡ About Me
 
-- 🟨 Build modern applications with **JavaScript (ES6+)**
-- ⚛️ Develop scalable interfaces with **React 19 + TypeScript**
-- 🌐 Build **custom WordPress themes from scratch**
-- 🛒 Develop and customize **WooCommerce stores**
-- 📱 Create responsive experiences across desktop, tablet and mobile
-- 🎨 Turn ideas into clean, accessible and visually refined UIs
-- ✨ Add purposeful micro-interactions and animation
-- 🧩 Structure projects with reusable, maintainable components
+I'm a frontend developer who enjoys turning ideas into **clean, responsive and polished digital experiences**.
 
-## 🛠️ Tech Stack
+My work combines modern JavaScript development with custom WordPress work. I don't just swap logos or colors on ready-made themes — I also **build WordPress themes from scratch** and create tailored WooCommerce experiences.
+
+## 🌷 What I Do
+
+| | Focus |
+|---|---|
+| 🟨 | **JavaScript (ES6+)** — interactive, practical web experiences |
+| ⚛️ | **React 19 + TypeScript** — reusable and maintainable interfaces |
+| 🌐 | **WordPress** — custom themes and tailored websites |
+| 🛍️ | **WooCommerce** — product layouts, store functionality and customization |
+| 📱 | **Responsive UI** — desktop, tablet and mobile experiences |
+| ✨ | **Motion & Interaction** — purposeful micro-interactions and animation |
+
+## 🎀 Tech Stack
 
 **Core Frontend**  
 `HTML5` · `CSS3` · `JavaScript (ES6+)` · `TypeScript` · `React 19` · `Vite` · `Tailwind CSS`
@@ -39,51 +49,47 @@ I work across modern **JavaScript/React applications** and **custom WordPress de
 **Tools**  
 `Git` · `GitHub` · `VS Code` · `npm`
 
----
-
-## 🚀 Featured Projects
+## 🦢 Featured Work
 
 ### 🛍️ Amira Store
 A refined fashion e-commerce experience with product discovery, quick view, wishlist, cart, checkout and responsive navigation.
 
 **React · JavaScript · Vite · Tailwind CSS · Framer Motion · GSAP**  
-→ [Live Demo](https://real-aiman.github.io/Amira-store/) · [Repository](https://github.com/real-aiman/Amira-store)
+[Live Demo](https://real-aiman.github.io/Amira-store/) · [Repository](https://github.com/real-aiman/Amira-store)
 
 ### 🏥 PulseCare — Hospital Dashboard
-A modern healthcare dashboard focused on clear data presentation, reusable components and responsive layouts.
+A modern dashboard concept focused on clear data presentation, reusable components and responsive layouts.
 
 **React · TypeScript · Recharts · Tailwind CSS**
 
 ### 💼 NexusHire
-A modern job-platform concept focused on practical recruitment workflows and polished frontend UX.
+A modern job-platform concept focused on recruitment workflows and polished frontend UX.
 
 **React · TypeScript · State Management · Responsive UI**
 
-### 🛒 WordPress / WooCommerce Projects
+### 🛒 WordPress & WooCommerce
 Custom WordPress work including **from-scratch theme development, WooCommerce customization, product layouts, responsive styling and real store functionality**.
 
 **WordPress · WooCommerce · PHP · Elementor · CSS**
 
----
-
 ## 🌱 Currently Growing
 
-I'm continuously improving my skills in **advanced JavaScript, React patterns, TypeScript, Next.js, WordPress theme architecture, WooCommerce customization, accessibility and production-ready frontend development**.
+`Advanced JavaScript` · `React Patterns` · `TypeScript` · `Next.js` · `WordPress Theme Architecture` · `WooCommerce` · `Accessibility`
 
-## 🎯 My Approach
+## ☁️ My Little Philosophy
 
 > **Clean code. Calm interfaces. Meaningful interactions.**
+>
+> I believe good frontend work should feel effortless — thoughtful on the inside and lovely on the outside.
 
-I care about the details that make a product feel intentional — from responsive behavior and component structure to the small interactions users remember.
+## 💌 Open To
 
-## 🤝 Let's Connect
+**Frontend opportunities · Internships · Freelance projects · Collaborations**
 
-I'm open to **frontend opportunities, internships, freelance projects and collaborative builds**.
+<div align="center">
 
-📫 Feel free to explore my repositories and connect with me through my portfolio or GitHub.
+### Thanks for stopping by ♡
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6E6E8&height=100&section=footer" width="100%" />
 
-### ⭐ Thanks for visiting!
-
-If something here helps or inspires you, a ⭐ on a project is always appreciated.
+</div>
